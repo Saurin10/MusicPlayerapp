@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="primary_color">#D32F2F</color>
+
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="primary_dark_color">#B71C1C</color>
+
+    <!-- Background color for app -->
+    <color name="tan_background">#FFF7DA</color>
+
+    <!-- Background color for the weekly top 10 category -->
+    <color name="category_weeklyTop10">#006064</color>
+
+    <!-- Background color for the Today's Top 10 category -->
+    <color name="category_todayTop10">#3E2723</color>
+
+    <!-- Background color for the Global Top 10 category -->
+    <color name="category_globalTop10">#4A148C</color>
+
+    <!-- Background color for the Trending In India category -->
+    <color name="category_trendingIndia">#1A237E</color>
+
+    <!-- Background color for the US TOP 10 category -->
+    <color name="category_UStop10">#880E4F</color>
+</resources>

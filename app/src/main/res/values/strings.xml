@@ -1,0 +1,19 @@
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Music Player</string>
+
+    <!-- Category name for Weekly Top 10 [CHAR LIMIT=20] -->
+    <string name="category_weeklyTop10">Weekly Top 10</string>
+
+    <!-- Category name for the vocabulary words for Today's Top 10 [CHAR LIMIT=20] -->
+    <string name="category_todayTop10">Today\'s Top 10</string>
+
+    <!-- Category name for the vocabulary words for Global Top 10 [CHAR LIMIT=20] -->
+    <string name="category_globalTop10">Global Top 10</string>
+
+    <!-- Category name for the vocabulary words for Trending in India [CHAR LIMIT=20] -->
+    <string name="category_trendingIndia">Trending in India</string>
+
+    <!-- Category name for the vocabulary words for US Top 10 [CHAR LIMIT=20] -->
+    <string name="category_UStop10">US Top 10</string>
+</resources>
